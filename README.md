@@ -52,3 +52,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+![Snake animation](https://github.com/Sriharipriya897/Sriharipriya897/blob/output/github-contribution-grid-snake.svg)
+
