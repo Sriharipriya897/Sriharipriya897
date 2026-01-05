@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sriharipriya+👋;Frontend+UI+%26+UX+Developer;Software+Development+%26+AI;Love+Building+Useful+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Sriharipriya;Second+Year+AIML+in+KGiSL;Interested+in+Frontend+UI+%26+UX;Love+building+useful+Software+Projects" />
 </p>
+
 
 
 
