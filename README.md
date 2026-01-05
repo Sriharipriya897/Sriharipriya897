@@ -7,9 +7,9 @@
 
 ## Hi 👋 I'm Sriharipriya
 
-🎓 Second Year Student  
-💻 Interested in Frontend UI & UX, Software Development & AI  
-🚀 Love building useful projects  
+🎓 Second Year AIML In KGiSL 
+💻 Interested in Frontend UI & UX
+🚀 Love building useful Software Projects
 
 ### 🛠 Skills
 - Python
