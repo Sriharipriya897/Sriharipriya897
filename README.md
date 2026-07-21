@@ -11,7 +11,7 @@
 
 ## 
 
-🎓 Second Year AIML Student In KGiSL 
+🎓 Third Year AIML Student In KGiSL 
 💻 Interested in Frontend UI & UX
 🚀 Love building useful Software Projects
 
