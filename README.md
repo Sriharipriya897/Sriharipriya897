@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Second+Year+AIML+student+in+KGiSL;Interested+in+Frontend+UI+%26+UX;Love+building+useful+Software+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Third+Year+AIML+student+in+KGiSL;Interested+in+Frontend+UI+%26+UX;Love+building+useful+Software+Projects" />
 </p>
 
 
